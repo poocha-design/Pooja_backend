@@ -1,0 +1,17 @@
+{
+    "userId": 1,
+    "favorites": [
+      {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "pages": 328
+      },
+      {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 281
+      }
+    ]
+  }
